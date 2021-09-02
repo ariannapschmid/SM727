@@ -1,5 +1,4 @@
 #code code code
-x <- 5
 install.packages("usethis")
 library(usethis)
 create_github_token() #this opens up a link to github
